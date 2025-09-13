@@ -1,2 +1,9 @@
 # stock-market-analyzer
-This Stock Market Analyzer is a Python-based real-world project designed to provide users with easy access to both historical and live stock price data. Built without machine learning, it focuses on data analysis and visualization using core Python libraries including pandas, matplotlib, and yfinance.
+Stock Market Analysis Project
+A Python-based project for exploring and analyzing stock market data. It fetches stock prices, performs exploratory data analysis (EDA), and visualizes market trends using interactive and static plots.
+#Fearures
+- Fetches stock data using yfinance / APIs
+- Cleans and structures data with pandas
+- Performs basic stock analysis (moving averages, daily returns, volatility)
+- Visualizes trends using matplotlib, seaborn
+- Interactive charts for better insights
