@@ -6,5 +6,5 @@ Features:
 - Fetches stock data using yfinance / APIs
 - Cleans and structures data with pandas
 - Performs basic stock analysis (moving averages, daily returns, volatility)
-- Visualizes trends using matplotlib, seaborn
+- Visualizes trends using matplotlib, plotly.express
 - Interactive charts for better insights
